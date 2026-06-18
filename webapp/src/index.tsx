@@ -199,9 +199,9 @@ const ERPEmbed = () => {
                     >
                         <div style={styles.message}>
                             <div style={styles.spinner} />
-                            <p style={styles.messageTitle}>Đang tải ERP</p>
+                            <p style={styles.messageTitle}>Đang tải Docs</p>
                             <p style={styles.messageText}>
-                                Nếu màn hình không hiển thị, hãy mở ERP trong
+                                Nếu màn hình không hiển thị, hãy mở docs trong
                                 tab mới.
                             </p>
                         </div>
