@@ -1,5 +1,5 @@
 {
-    "id": "mattermost-plugin-doc",
+    "id": "mattermost-plugin-docs",
     "name": "Docs",
     "description": "Embed Docs website inside Mattermost sidebar",
     "version": "1.0.7",
