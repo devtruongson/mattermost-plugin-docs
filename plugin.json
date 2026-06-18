@@ -1,7 +1,7 @@
 {
     "id": "mattermost-plugin-doc",
-    "name": "ERP",
-    "description": "Embed ERP website inside Mattermost sidebar",
+    "name": "Docs",
+    "description": "Embed Docs website inside Mattermost sidebar",
     "version": "1.0.7",
     "min_server_version": "7.8.2",
     "webapp": {
