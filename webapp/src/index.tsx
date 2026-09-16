@@ -1,4 +1,3 @@
-```tsx
 import React from "react";
 import type { Store } from "redux";
 import manifest from "../../plugin.json";
@@ -413,4 +412,3 @@ window.registerPlugin(
     manifest.id,
     new Plugin(),
 );
-```
