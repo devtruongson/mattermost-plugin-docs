@@ -37,7 +37,7 @@ const styles: Record<string, React.CSSProperties> = {
     },
 
     header: {
-        display: "flex",
+        display: "none",
         alignItems: "center",
         justifyContent: "space-between",
         gap: 12,
@@ -196,7 +196,6 @@ const PMSEmbed = () => {
 
         const timeout = window.setTimeout(() => {
             setIsLoading(false);
-            setHasTimeout(true);
         }, 12000);
 
         return () => {
