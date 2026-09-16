@@ -2,7 +2,7 @@ import React from "react";
 import type { Store } from "redux";
 import manifest from "../../plugin.json";
 
-const ERP_URL = "https://docs.fstack.asia";
+const ERP_URL = "https://center.fstack.asia/pms";
 
 type RightHandSidebarRegistration = {
     id?: string;
